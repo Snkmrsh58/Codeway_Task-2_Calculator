@@ -1,1 +1,1 @@
-# note-app
+Simple Calculator
